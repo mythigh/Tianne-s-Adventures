@@ -45,7 +45,7 @@ art_sound = pygame.mixer.Sound("sounds/art.mp3")
 art_sound.set_volume(0.1)
 # ---------------- Window Setup ----------------
 root = tk.Tk()
-root.title("Levi's Adventure")
+root.title("Tiavis' Adventure")
 root.geometry("600x400")
 
 # ---------------- MENU with animated GIF background (REPLACES your static PNG block) ----------------
